@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Lesson 1.5</string>
+    <string name="fav_name">Favourites</string>
+    <string name="display_area">Display Area</string>
+    <string name="favs">Favourites</string>
+    <string name="web">Web View</string>
+    <string name="contact">Contact Us</string>
+    <string name="setting">Setting</string>
+    <string name="share_this">Share</string>
+</resources>
